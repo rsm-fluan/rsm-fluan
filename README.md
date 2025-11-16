@@ -1,28 +1,31 @@
 ## 👋 Hi, I’m Fanny  
 
-🎓 MSBA @ UC San Diego  
-🌼 I make numbers make sense. Transforming data into decisions that drive real impact.  
+🎓 Master in Business Analytics @ UC San Diego Rady School of Management
 
 ---
 
 ### 🚀 About Me  
-- 💼 Passionate about **data analytics**, **business intelligence**, and **storytelling with data**  
+- 💼 Passionate about **data analytics**, **business intelligence**, and **AI & Machine Learning**  
 🌱 Currently exploring:  
   - Predictive modeling & machine learning for business insights  
   - Data visualization and storytelling to bridge analysis with decision-making
 - 🧠 Skilled in: **Python**, **SQL**, **Tableau**, **Power BI**, **Excel**, **Machine Learning**   
-- 🪴 Motto: *“If data tells a story, I’m the translator.”*  
 ---
+## 🌟 Featured Projects
+
+### 📚 [Hybrid Book Recommender](https://github.com/rsm-fluan/hybrid-book-recommender)
+A hybrid recommendation pipeline combining collaborative filtering, matrix factorization, and text classification.  
+*Built from scratch using Python and scikit-learn.*
 
 ### ☕️ Outside of Work  
 When I’m not coding, you’ll probably find me **lifting weights 🏋️‍♀️ or exploring new cafés ☕️** — because balance is key!  
 
 ---
+## 🌐 Connect with Me
 
-### 📫 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/fang-yu-luan)  
-- ✉️ [fluan@ucsd.edu]  
-
+- 💼 [LinkedIn](https://linkedin.com/in/fang-yu-luan)  
+- 🧠 [GitHub](https://github.com/rsm-fluan)  
+- ✉️ Email: fluan@ucsd.edu  
 ---
 
-⭐ *Currently seeking data analyst / business analytics opportunities — let’s turn data into impact together!*
+⭐ *Thanks for visiting my GitHub! Feel free to explore my projects and reach out if you'd like to connect.*
