@@ -25,7 +25,7 @@ When I’m not coding, you’ll probably find me **lifting weights 🏋️‍♀
 
 - 💼 [LinkedIn](https://linkedin.com/in/fang-yu-luan)  
 - 🧠 [GitHub](https://github.com/rsm-fluan)  
-- ✉️ Email: fluan@ucsd.edu  
+- ✉️ fluan@ucsd.edu  
 ---
 
 ⭐ *Thanks for visiting my GitHub! Feel free to explore my projects and reach out if you'd like to connect.*
