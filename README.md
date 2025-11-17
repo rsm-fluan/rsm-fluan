@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Fanny Luan
+# 🌻 Hi, I'm Fanny Luan
 
 🎓 **Master of Science in Business Analytics @ UC San Diego Rady School of Management**
 
 ---
 
 ## 🚀 About Me
-💼 Passionate about **data analytics**, **business intelligence**, and **AI & Machine Learning**  
+Passionate about **data analytics**, **business intelligence**, and **AI & Machine Learning**  
 🌱 Currently exploring:
 - Predictive modeling & machine learning for business insights  
 - Data visualization and storytelling to bridge analysis with decision-making  
